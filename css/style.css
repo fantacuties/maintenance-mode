@@ -34,12 +34,12 @@
 
 @font-face {
   font-family: FolksDecoon;
-  src: url(../assets/fonts/vag-rounded/FolksDecoon.eot);
-  src: url(../assets/fonts/vag-rounded/FolksDecoon.eot#iefix) format('embedded-opentype'),
-       url(../assets/fonts/vag-rounded/FolksDecoon.woff2) format('woff2'),
-       url(../assets/fonts/vag-rounded/FolksDecoon.woff) format('woff'),
-       url(../assets/fonts/vag-rounded/FolksDecoon.ttf) format('truetype'),
-       url(../assets/fonts/vag-rounded/FolksDecoon.svg#FolksDecoon-Light) format('svg');
+  src: url(../assets/fonts/folksdecoon/FolksDecoon.eot);
+  src: url(../assets/fonts/folksdecoon/FolksDecoon.eot#iefix) format('embedded-opentype'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.woff2) format('woff2'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.woff) format('woff'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.ttf) format('truetype'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.svg#FolksDecoon-Light) format('svg');
 }
 
 * {

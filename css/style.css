@@ -2,24 +2,44 @@
 
 @font-face {
   font-family: Gorditas;
-  src: url(../assets/fonts/gorditas/Gorditas-Regular.ttf);
   font-weight: normal;
+  src: url(../assets/fonts/gorditas/Gorditas-Regular.eot);
+  src: url(../assets/fonts/gorditas/Gorditas-Regular.eot#iefix) format('embedded-opentype'),
+       url(../assets/fonts/gorditas/Gorditas-Regular.woff2) format('woff2'),
+       url(../assets/fonts/gorditas/Gorditas-Regular.woff) format('woff'),
+       url(../assets/fonts/gorditas/Gorditas-Regular.ttf) format('truetype'),
+       url(../assets/fonts/gorditas/Gorditas-Regular.woff#Gorditas-Regular) format('svg');
 }
 
 @font-face {
   font-family: Gorditas;
-  src: url(../assets/fonts/gorditas/Gorditas-Bold.ttf);
   font-weight: bold;
+  src: url(../assets/fonts/gorditas/Gorditas-Bold.eot);
+  src: url(../assets/fonts/gorditas/Gorditas-Bold.eot#iefix) format('embedded-opentype'),
+       url(../assets/fonts/gorditas/Gorditas-Bold.woff2) format('woff2'),
+       url(../assets/fonts/gorditas/Gorditas-Bold.woff) format('woff'),
+       url(../assets/fonts/gorditas/Gorditas-Bold.ttf) format('truetype'),
+       url(../assets/fonts/gorditas/Gorditas-Bold.woff#Gorditas-Bold) format('svg');
 }
 
 @font-face {
   font-family: VAGRounded;
-  src: url(../assets/fonts/vag-rounded/VAGRounded.otf);
+  src: url(../assets/fonts/vag-rounded/VAGRounded.eot);
+  src: url(../assets/fonts/vag-rounded/VAGRounded.eot#iefix) format('embedded-opentype'),
+       url(../assets/fonts/vag-rounded/VAGRounded.woff2) format('woff2'),
+       url(../assets/fonts/vag-rounded/VAGRounded.woff) format('woff'),
+       url(../assets/fonts/vag-rounded/VAGRounded.ttf) format('truetype'),
+       url(../assets/fonts/vag-rounded/VAGRounded.svg#VAGRoundedBT-Regular) format('svg');
 }
 
 @font-face {
   font-family: FolksDecoon;
-  src: url(../assets/fonts/folksdecoon/FolksDecoon.ttf);
+  src: url(../assets/fonts/vag-rounded/FolksDecoon.eot);
+  src: url(../assets/fonts/vag-rounded/FolksDecoon.eot#iefix) format('embedded-opentype'),
+       url(../assets/fonts/vag-rounded/FolksDecoon.woff2) format('woff2'),
+       url(../assets/fonts/vag-rounded/FolksDecoon.woff) format('woff'),
+       url(../assets/fonts/vag-rounded/FolksDecoon.ttf) format('truetype'),
+       url(../assets/fonts/vag-rounded/FolksDecoon.svg#FolksDecoon-Light) format('svg');
 }
 
 * {
